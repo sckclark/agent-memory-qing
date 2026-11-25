@@ -9,3 +9,4 @@
 - [郑董](people/郑宗梅.md) — PRIVATE; her 盛腾 matters (雄安, 纪要, 贸易子公司, 药品, 外贸, 分镜脚本), migrated from 小蕊 11-25
 - [郑董每周清单](people/郑宗梅-weekly.md) — PRIVATE; Monday-morning reminder list (schedules.json zheng-weekly)
 - [王总](people/王鸿.md) — PRIVATE; 11-26 建设工程诉讼 hearing
+- [金总](people/金建锋.md) — PRIVATE; inventory sheet 11-25, price forecasts, open questions

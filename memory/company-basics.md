@@ -9,7 +9,8 @@ metadata:
 - 注册资本 10.5 亿元 (实收 per the company; 企查查 shows 实缴 6.5 亿 — unresolved).
 - 601 employees = 盛腾 + wholly owned 东方同信 (social-insurance count, 2026-10-30); 盛腾 alone ~453.
 - 8 main units + auxiliary facilities; 18 products in 5 categories. Lead products (owner 2026-11-16): 异构体二甲苯 (石油混合二甲苯异构体), 顺酐, 甲苯, 苯乙烯. Lead selling point: **low ethylbenzene, published spec 乙苯≤3%** (owner 2026-11-23).
-- Capacity/timeline conflicts not settled: 50 vs 80 万吨; site says 8 units done 2015, Baike says 2017-01 phase 1 / 2019-05 styrene.
+- **80 万吨 = naphtha (石脑油) raw material used per year** (郑董 2026-11-25: "你就记住用石脑油一年用80万吨就行了"); use this figure. **Actual daily naphtha consumption: 1700 t/day** (郑董 2026-11-25), not 80万/365. Naphtha is bought spot, day by day, with no long-term pickup obligations (郑董 11-25); Naphtha suppliers (金总 recording 11-25; names to verify): 神华, 神木?, several 山东 refiners (金诚 …), 中海油 by tender; suppliers publish prices ~11:30 daily. Sales channel: long-term contract selling light naphtha to 古雷石化 via 中石化循环利用科技有限公司 (Sinopec), MOPJ −400 delivered (paused 2026-10 because of 盛腾's own plant maintenance; 金总 11-25). Inventory sheets show total tank stock, which includes a minimum safety heel (罐底) in every tank; usable or saleable stock = stock − heel (金总 11-25). Market on 11-24: 山东直馏 ~8005 元/吨, down ~20% from ~1万 in late Oct (mysteel/隆众).
+- Timeline conflict not settled: site says 8 units done 2015, Baike says 2017-01 phase 1 / 2019-05 styrene.
 
 **Leadership (titles as of 2026-11):** 董事长 郑宗梅 (她); 联席总经理 金建锋, 任秀云; 副总经理 刘丽杰, 王鸿. 出口业务负责人 郑佳蕙. 市场部 lead JI ZHAO (runs the assistants). 信息部 赵欣 (他). 市场部经理 朱安琪 also leads 蕊元书院.
 
