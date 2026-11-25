@@ -4,6 +4,7 @@
 - [Electronic xylene](electronic-xylene.md) — G1–G3/G4 status, target customers and partners, IC China 2026, 科华 letter
 - [Assistants](assistants.md) — 小腾/小芳/小蕊: who does what, ask_agent
 - [Current focus](current-focus.md) — rolling log of work in progress
+- [Outlook 新药项目](outlook-drug.md) — CONFIDENTIAL; Outlook partnership, China production via 雄安综保区, feasibility report; contact 郑佳蕙
 - [People](people.md) — leaders on the allowlist: names, titles, how to address them
 - [郑董](people/郑宗梅.md) — PRIVATE; her 盛腾 matters (雄安, 纪要, 贸易子公司, 药品, 外贸, 分镜脚本), migrated from 小蕊 11-25
 - [郑董每周清单](people/郑宗梅-weekly.md) — PRIVATE; Monday-morning reminder list (schedules.json zheng-weekly)

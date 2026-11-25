@@ -1,0 +1,8 @@
+AGENT_ID=qing
+SESSION_ID=23b8f930-29f2-46b5-bb96-cde2c9abf9b5
+WORKDIR=/Users/xiaoqing
+TMUX_SESSION=qing
+AGENT_TZ=Asia/Shanghai
+AGENT_MODEL=opus
+MEMORY_CLONE=/Users/xiaoqing/memory-repo
+CHANNEL_ARGS="--dangerously-load-development-channels server:dingtalk"

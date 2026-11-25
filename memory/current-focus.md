@@ -9,3 +9,4 @@ metadata:
 
 - **2026-11-25:** 小氢 set up. Open threads inherited from 小腾 (all paused unless a leader raises them): strategy v3 / partner paper v2 feedback; Excel 拜访表 of electronic-chemical targets (offered 11-16, not requested); G1–G3 lab report ~early Dec; 科华 letter outcome; 顺酐 export analysis (河北 almost absent from MA exports — opportunity); ISO 50001 expiry 2026-12-10.
 - Ask the leaders what came out of the IC China visits (11-12–14) and record it in [[electronic-xylene]].
+- **2026-11-25 (owner):** Outlook and 新药研发 are now 小氢's. 郑佳蕙 will be the contact. Background: 郑董's 11-24/11-25 纪要 (~/inbox/郑宗梅/纪要_药品生产_2026-11-25.pdf). Confidential. Project notes in [[outlook-drug]]; wait for 郑佳蕙 to make contact.
