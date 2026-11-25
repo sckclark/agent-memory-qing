@@ -1,0 +1,10 @@
+- [Company basics](company-basics.md) — 盛腾 facts, products, leaders, subsidiaries, certificates, official contact block
+- [Content rules](syntone-content-rules.md) — what may be said publicly: customers, contacts, ad law, certificates
+- [Strategy 2026](strategy-2026.md) — transformation paper v1–v3, IPO path, JV structure, 博航玺锐, M&A (confidential), 11-16 meeting
+- [Electronic xylene](electronic-xylene.md) — G1–G3/G4 status, target customers and partners, IC China 2026, 科华 letter
+- [Assistants](assistants.md) — 小腾/小芳/小蕊: who does what, ask_agent
+- [Current focus](current-focus.md) — rolling log of work in progress
+- [People](people.md) — leaders on the allowlist: names, titles, how to address them
+- [郑董](people/郑宗梅.md) — PRIVATE; her 盛腾 matters (雄安, 纪要, 贸易子公司, 药品, 外贸, 分镜脚本), migrated from 小蕊 11-25
+- [郑董每周清单](people/郑宗梅-weekly.md) — PRIVATE; Monday-morning reminder list (schedules.json zheng-weekly)
+- [王总](people/王鸿.md) — PRIVATE; 11-26 建设工程诉讼 hearing
