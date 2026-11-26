@@ -47,3 +47,7 @@ Publishing rules in detail: [[syntone-content-rules]].
 - 歧化 June 2026 material balance (表1.1 轻油改质装置物料平衡 06月, from 王总): feed toluene 5903+42 (储运), C9904 重芳 6759, H2 159 → benzene 2517 (19.57%), 二甲苯3 7833 (60.90%), 轻烃 368 (2.86%), 拔顶苯 327 (2.54%), C9 底油 429 (3.33%), fuel gas 1126+198 (10.3%), loss 65 (0.51%). Avg feed 17.6 t/h (~55% of 32 t/h design). 二甲苯3 = 歧化 xylene product.
 - Toluene sell-vs-歧化 (11-26, 隆众 prices: toluene 6060–6175, benzene 7300, isomer X 6416): value ≈5720–5800 (June avg yields) vs ≈6300 (李总 toluene-only yields) → near break-even; advice: feed what process needs, run 1–2 day test for incremental yields; sell inventory meanwhile. Benzene–toluene spread drives it.
 - 盛腾's 商品丁烷 (sold) = 异丁烷 for MTBE (金总, 郑董 11-26). 二甲苯1 is below 异构级 spec (hence below isomer market price); plan is to blend it with 歧化 xylene into 异构级. Benchmark vs 隆众 异丁烷 (e.g. 华联石化 出厂), not 正丁烷.
+
+## 生产人员（任总 2026-11-26）
+- 易勇：生产科科长。邢超：轻油改质车间主任（含歧化）。辛欣：公共车间主任（含锅炉、脱硫、硫磺回收；任总先说工艺工程车间，后更正为公共车间）。王军清：环保主管。
+- 11-26 加热炉排放口超标：18:05 起烟尘、SO2 阶跃；按小时均值只有 19 时颗粒物折算超标（限值烟尘 20、SO2 50，按折算值）。歧化氢纯度下降时，循环氢排到燃料气管网，优先供歧化炉，把含硫的重整燃料气挤到被监测的炉子。重整燃料气 H2S 1050 ppm，歧化循环氢 0 ppm。监测的是重整七台加热炉共用排放口；燃料主要为 PSA 解吸气，少量罐区异丁烷、火炬气柜气。重整燃料气样在脱硫后取，但净化气只有约 1 ppm，原因待查（疑火炬气柜气在脱硫后并入，或化验有误）。
