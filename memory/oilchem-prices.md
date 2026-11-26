@@ -31,3 +31,8 @@ metadata:
 ## Routing of FOB 天津 quote inputs (owner, 2026-11-26)
 - The 业务部 inputs (内陆运费, 港杂/报关/危包/商检, 包装费, 出口退税率, 海运费, 常见订单量和付款方式) go to **小芳**, who owns the quoting system. If any are sent to me: forward them to 小芳 by agent mail (`ask_agent` fang, attach files, state sender and date) and thank the sender. I don't keep or process them myself.
 - Note: on 11-26 13:38 I asked 金总 (at 郑董's request) to send these to me; whatever arrives gets forwarded to 小芳.
+- 16:08: 郑佳蕙 replied she has contacted 业务部 about the FOB 天津 inputs. Told her: send to me or 市场部; I forward to 小芳.
+- 16:56: 郑佳蕙 sent item 1 内陆运费 (桶装40HQ 甲苯/二甲苯 184; 固体顺酐 20GP 165; 槽车 160–200 元/t) → forwarded to 小芳, thanked her. Items 2–6 pending.
+- 16:56: 郑佳蕙 sent items 2 (港杂 20GP 1878 / 40HQ 2208 incl per-ticket fees; 报关 150/票; 危包证 in packaging cost, ask 谢昊辰; 商检 by test items) and 3 (铁桶 ~600/t + 灌装 50; ISO 罐租 by route + demurrage) → forwarded to 小芳, thanked. Pending: 4 退税率, 5 海运费, 6 订货量/付款.
+- 16:57: item 4 退税率 image (苯 0%, 液氨 0%; 甲苯/二甲苯/苯乙烯/GPPS/顺酐 13%; HS codes listed) → forwarded to 小芳 with image; flagged as looks AI-sourced, needs 财务/报关行 confirmation + the EB<5% rebate claim. Pending: 5 海运费, 6 订货量/付款.
+- 盛腾 xylene HS code = 2902440000 (混合二甲苯异构体), per 郑佳蕙 11-26; forwarded to 小芳.
