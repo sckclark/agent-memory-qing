@@ -27,3 +27,7 @@ metadata:
 - **Ceiling** (above this, buyers take Korean cargo): 目的地 CFR − 天津到目的地运费; where no CFR quote exists, FOB 韩国 + 韩国到目的地运费. Freight is not part of the FOB price, only the competitiveness check; ask the forwarder once a week for the 2–3 main lanes.
 - Quote per quantity tier: drums 5–15 t (most expensive per t), ISO tank about 20–24 t (orders of 1/2/5/10 tanks), parcel tanker 1000 t+. Fixed fees ÷ tonnes make small lots dearer. 5 吨起订 today. 二甲苯/甲苯 are Class 3 dangerous goods. Low-EB premium on top.
 - **Auto-quote system (planned)** sources the 隆众 DB + PBOC USD mid-rate automatically. **Waiting on 业务部** (via 郑佳蕙 / leaders): 内陆运费到天津港, 天津港杂费/报关/危包证/商检 (per shipment vs per t), 包装费 (桶, ISO 罐), 出口退税率 per product (with 财务), weekly main-lane freight, common order quantities and payment terms.
+
+## Routing of FOB 天津 quote inputs (owner, 2026-11-26)
+- The 业务部 inputs (内陆运费, 港杂/报关/危包/商检, 包装费, 出口退税率, 海运费, 常见订单量和付款方式) go to **小芳**, who owns the quoting system. If any are sent to me: forward them to 小芳 by agent mail (`ask_agent` fang, attach files, state sender and date) and thank the sender. I don't keep or process them myself.
+- Note: on 11-26 13:38 I asked 金总 (at 郑董's request) to send these to me; whatever arrives gets forwarded to 小芳.
