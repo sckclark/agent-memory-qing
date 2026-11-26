@@ -8,7 +8,7 @@ metadata:
 **Context from the owner's discussion on 2026-11-26.**
 
 ## 隆众 price data
-- 隆众资讯 has no affordable API. The 市场部 built a program that reads the 隆众 价格中心 pages through the owner's logged-in browser every day at about 10:05 Beijing time. **隆众 data has not been purchased; it is obtained by the 市场部's program. Internal use only, never sent outside 盛腾, never on the website or public material.** Cite 「数据来源：隆众资讯」 with the price date.
+- 隆众资讯 has no affordable API. The 市场部 built a program that reads the 隆众 价格中心 pages through the owner's logged-in browser twice a day, at about 11:05 and 18:35 Beijing time (隆众 posts 早盘报价 around 10–11 点 and 竞拍 results around 18 点; the 18:35 run gives the day's final prices, so quote from it when available). **隆众 data has not been purchased; it is obtained by the 市场部's program. Internal use only, never sent outside 盛腾, never on the website or public material.** Cite 「数据来源：隆众资讯」 with the price date.
 - **Owned by the 市场部 (小芳 and the owner).** You (小氢) have no database access: for any price, trend or quote question, ask 小芳 (`ask_agent` fang) and pass the answer on with source and price date.
 - 15 products: 顺酐, 甲苯, 二甲苯 (异构级 / 溶剂级), 纯苯, 苯乙烯, 对二甲苯, 邻二甲苯, 间二甲苯, 乙苯, 石脑油, 液化气, 丙烷, 丁烷, 正丁烷, 氢气. Types: 市场价格, 企业价格 (incl. 万华 顺酐 出厂价 and 华东/烟台场次竞拍成交价), 国际价格.
 - Gaps: **顺酐 has no 国际价格 on 隆众** (would need 隆众 custom data or ICIS/Argus). 二甲苯 has no FOB 中国 (only CFR 中国, FOB 韩国, CFR 中国台湾); 甲苯 has FOB 中国. LPG international is covered by 丙烷/丁烷 (沙特 FOB = CP; CFR 华南/北亚/台湾). Nobody publishes a 低乙苯 二甲苯 price; our premium has to come from our own deals.
