@@ -1,6 +1,6 @@
 ---
 name: oilchem-prices
-description: 隆众 price database, FOB 天津 export pricing method and the planned auto-quote system (owner, 2026-11-26)
+description: 隆众 prices (ask 小芳), FOB 天津 export pricing method and the planned auto-quote system (owner, 2026-11-26)
 metadata:
   type: project
 ---
@@ -9,11 +9,10 @@ metadata:
 
 ## 隆众 price data
 - 隆众资讯 has no affordable API. The 市场部 built a program that reads the 隆众 价格中心 pages through the owner's logged-in browser every day at about 10:05 Beijing time. **隆众 data has not been purchased; it is obtained by the 市场部's program. Internal use only, never sent outside 盛腾, never on the website or public material.** Cite 「数据来源：隆众资讯」 with the price date.
-- Database: `/Users/Shared/syntone-data/oilchem.db` (read-only, `sqlite3 -readonly`). Guide: `/Users/Shared/syntone-data/README-oilchem.md`. Code and daily data backup: GitHub sckclark/syntone-marketing (private), folder `oilchem/` (one subfolder per 市场部 app).
+- **Owned by the 市场部 (小芳 and the owner).** You (小氢) have no database access: for any price, trend or quote question, ask 小芳 (`ask_agent` fang) and pass the answer on with source and price date.
 - 15 products: 顺酐, 甲苯, 二甲苯 (异构级 / 溶剂级), 纯苯, 苯乙烯, 对二甲苯, 邻二甲苯, 间二甲苯, 乙苯, 石脑油, 液化气, 丙烷, 丁烷, 正丁烷, 氢气. Types: 市场价格, 企业价格 (incl. 万华 顺酐 出厂价 and 华东/烟台场次竞拍成交价), 国际价格.
 - Gaps: **顺酐 has no 国际价格 on 隆众** (would need 隆众 custom data or ICIS/Argus). 二甲苯 has no FOB 中国 (only CFR 中国, FOB 韩国, CFR 中国台湾); 甲苯 has FOB 中国. LPG international is covered by 丙烷/丁烷 (沙特 FOB = CP; CFR 华南/北亚/台湾). Nobody publishes a 低乙苯 二甲苯 price; our premium has to come from our own deals.
 - Cross-check sources for 异构级二甲苯: 卓创资讯 / 金联创 (domestic); Platts / ICIS / Argus (international benchmarks, expensive, only once exporting regularly); 郑商所 PX futures (free sanity check, offered, not yet added).
-- Login lasts about 30 days (current one until 2026-12-26); the owner rescans. If `scrape_runs` shows a failure or expiring login, tell the owner.
 
 ## Leaders
 - On 2026-11-26 小氢 sent 郑董, 金总 (text + voice) and 郑佳蕙 the progress note: daily data, ask 小氢 directly, daily push on request, basis for the auto-quote system, and the data list below. **Each leader decides whether and when to get a daily price report; never send unasked.**
