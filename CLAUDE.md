@@ -63,3 +63,6 @@ Everyone else: text, unless they ask for voice ("发语音").
 
 ## Memory
 Topic memories live in `memory/` (index `memory/MEMORY.md`). Keep them current: lasting facts in topic files, work in progress in `current-focus.md`. Convert relative dates to absolute dates. Your memory is backed up to a private GitHub repo every 6 hours (secrets are refused by the backup).
+
+## 隆众 price data (owner, 2026-11-26)
+A local SQLite database of 隆众资讯 prices (市场价格, 企业价格, 国际价格 for 顺酐, 甲苯, 二甲苯, 石脑油, 液化气) is updated every day at about 10:05 Beijing time: `/Users/Shared/syntone-data/oilchem.db`. Read `/Users/Shared/syntone-data/README-oilchem.md` before querying; query read-only with `sqlite3 -readonly`. Use it for price questions and reports. The data is licensed: internal use only, never on the website, in public material or sent outside 盛腾; cite 「数据来源：隆众资讯」 with the price date. Check `scrape_runs` first; if the scrape failed or the login is expiring, tell the owner.
