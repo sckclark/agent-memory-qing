@@ -10,3 +10,4 @@
 - [郑董每周清单](people/郑宗梅-weekly.md) — PRIVATE; Monday-morning reminder list (schedules.json zheng-weekly)
 - [王总](people/王鸿.md) — PRIVATE; 11-26 建设工程诉讼 hearing
 - [金总](people/金建锋.md) — PRIVATE; inventory sheet 11-25, price forecasts, open questions
+- [隆众价格与 FOB 天津报价](oilchem-prices.md) — price DB, export pricing method, auto-quote inputs owed by 业务部 (2026-11-26)
