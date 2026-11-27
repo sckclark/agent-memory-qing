@@ -15,3 +15,6 @@
 - [刘总](people/刘丽杰.md) — PRIVATE; 11-26 production meeting transcript (二甲苯2 mix-up)
 - [Ask before forwarding](feedback-ambiguous-forwarding.md) — ambiguous send request → ask and wait, never guess (任总 11-26)
 - [物料编码表](material-codes.md) — 盛腾 raw materials/products by workshop and unit (王总 11-27); product chains; open code issues
+- [人力资源](hr.md) — 盛腾 HR facts from 刘总's documents (薪酬制度 11-27); pending headcount/lab staff for 郑董
+- [HR 整改跟踪](hr-rectification.md) — 郑董's 1-month HR rectification with 刘总 (16 items, cadence, status)
+- [Validate with real buyers](feedback-validate-with-users.md) — 郑董 11-27: validate new directions with named buyers first; external expansion = main focus; 任总: big-investment/slow-payback → recommend cautiously, show payback/worst case

@@ -18,6 +18,7 @@ metadata:
 - 河北东方同信化工股份有限公司 (wholly owned): holds 道路危险货物运输许可证 冀交运管许可沧字 130982300021号 (2024-03-26 to 2028-03-25). Its fleet is a **自有采购车队** bringing raw materials in (原料质量可控、可溯源). Customers such as 中国石化/中国石油/黎明气体 **collect product themselves** — never say the fleet delivers to them.
 - 博航玺锐: new controlled subsidiary, intended for purification units (permits/site options in [[strategy-2026]]).
 - 蕊元书院: 盛腾-invested 国学 boutique hotel in 任丘 (opened Oct 2026). 小蕊 serves it.
+  - 书院 staff (郑董 + 小蕊, 2026-11-27): 陈玉(Yuki) 书院副总/运营; 段立军 段总 房务客房; 前厅 高宇、孙旭(郑董"好像"); 客房部 张晶晶; 餐饮部 郑伯行; 厨房 汪连印(汪厨); 销售 曹智杰(→段总); 品牌部 赵子怡; 工保部 谢晓光、裴世林; 财务 曾璐; 人力资源 陈欣鑫 (郑董 11-27). Unknown: 采购, 国学展馆. 郑董 asked (11-27) that 小蕊 be fully open to 郑宗梅, 段立军, 陈玉, 刘丽杰, 任秀云, 朱安琪 and answer only job-related questions for everyone else; forwarded to owner to configure.
 
 **Honours and certificates:** 省级绿色工厂 2024; 河北省先进级智能工厂 2026-05; 沧州市基础级智能工厂 2025; 河北省省级节水型企业 2023. ISO 9001 valid; **ISO 50001 expires 2026-12-10** (renewal under way); ISO 14001/45001 expired 2026-11-06 (renewal pending). 安全生产许可证 valid to 2029-10. Not yet public until the company OKs: 2020 制造业民营企业100强 #83; hydrogen purification supplied Winter Olympics hydrogen (光明日报 2022-04-04).
 
@@ -53,3 +54,8 @@ Publishing rules in detail: [[syntone-content-rules]].
 - 11-26 加热炉排放口超标：18:05 起烟尘、SO2 阶跃；按小时均值只有 19 时颗粒物折算超标（限值烟尘 20、SO2 50，按折算值）。歧化氢纯度下降时，循环氢排到燃料气管网，优先供歧化炉，把含硫的重整燃料气挤到被监测的炉子。重整燃料气 H2S 1050 ppm，歧化循环氢 0 ppm。监测的是重整七台加热炉共用排放口；燃料主要为 PSA 解吸气，少量罐区异丁烷、火炬气柜气。重整燃料气样在脱硫后取，但净化气只有约 1 ppm，原因待查（疑火炬气柜气在脱硫后并入，或化验有误）。
 
 - 11-27 (易勇): D701 = 轻油改质放空气分液罐 (H2S 213 ppm); D703 = 燃料气分液罐 (~1 ppm H2S, COS 0.77, CH3SH 0.40 at 0:56). Flow: D701 → 气柜 → D703 → 轻油改质加热炉. Gas-holder H2S comes from D701. Lab H2S instruments: 微量硫色谱 0–30 ppm, 福立 0–330 ppm, 酸性气色谱 5000–300000 ppm (readings near 30 ppm on the first may be over-range). Stack exceedances 11-26/27 track 歧化循环氢→燃料气 flow (>~1,300 Nm³/h).
+
+- Org chart (刘总 11-27): 联席总经理 任秀云 分管 总经理办公室、财务资产部、投资部、人力资源部、安全部、技术发展部、信息管理部、厂部(质检科、生产科、设备科、5 车间); 联席总经理 金建锋 分管 业务部、市场部. Group entities in HR data: 盛腾科技有限公司, 北京盛腾生物制药有限公司, 河北博航玺锐化工科技有限公司, 河北顺钦石化产品经销有限公司, 河北盛腾房地产开发有限公司. Headcount 11-27: 编制 559, 全职 502, 兼职 23 (details in hr.md).
+- 芳烃优化单元 = 歧化装置 (same unit; project name vs common name) — 王总 11-27.
+- 顺酐 (王总 11-27): normally produced/sold LIQUID; 结片厂房 exists (solid flaking capacity), trial run done, some solid stock in inventory, solid currently not produced. Export likely solid (郑佳蕙: export solid only, 25 kg bags) → flaking must restart for export; flaking cost not yet in FOB quote.
+- 2026-11-27 DECISION 郑董: legal advisers — let 沧州建平 (5万/yr, HR) and 北京金岳 (10万/yr under 生物制药, ends ~2027-03) expire; appoint one 任丘 local firm group-wide (≤5万/yr, cases extra); 小氢 drafts routine advice/letters; export legal per case (天津/北京 trade firm). Owner: 王总.

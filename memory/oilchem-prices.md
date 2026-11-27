@@ -41,3 +41,6 @@ metadata:
 - 2026-11-27 14:36 郑佳蕙 sent export rebate rates (verified on 国家税务总局 site, as of 11-26): 苯 2902200000 0%; 甲苯 2902300000 13% (监管 2/3/A/B, 易制毒 export licence); 二甲苯 290241/42/43/44 13%; 苯乙烯 2902500000 13%; GPPS 3903199000 13% (改性 3903191000, EPS 3903110000 13%); 顺酐 2917140000 13%; 液氨 2814100000 0% (氨水 0%). Forwarded to 小芳. Still pending: 海运费, 订货量/付款.
 - 14:37 小芳: rebate rates updated (matched assumptions; floor price unchanged). India freight received (via JI ZHAO 货代); Vietnam/Indonesia/Turkey + ISO tank pending; payment terms asked 中信保 by 郑佳蕙; typical order qty still missing.
 - 14:40 郑佳蕙 sent India ISO tank (T11) freight: Nhava Sheva 甲苯 $4,050, 二甲苯/顺酐/苯乙烯 $3,950, tank rent $1,600; Mundra same freight, rent $1,900; 7 days free origin / 14 days destination, $50/tank/day after; rent incl. cleaning. Forwarded to 小芳. Asked her: tonnes per T11 tank per product, 顺酐 liquid (heated) or solid, validity, other routes.
+- 14:53 郑佳蕙: freight valid 1 week (weekly update), tank rent stable; 顺酐 both liquid & solid; T11 tonnage pending. Forwarded to 小芳.
+- 14:54 郑佳蕙: 顺酐 exported SOLID only (25 kg bags, container); ISO tank applies to 甲苯/二甲苯/苯乙烯 only. Told 小芳.
+- 15:15 郑佳蕙: T11 25 m³ tank: 甲苯 max 20.5 t / min 17.5; 二甲苯 max 20.4 / min 17.3 (≈95%/80% fill, plausible). Styrene pending. Forwarded to 小芳.
