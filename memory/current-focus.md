@@ -34,3 +34,4 @@ metadata:
 - 13:38: 郑董 asked to sync the 隆众进展 note to 任总 and 王总 (done, text) and have 金总 provide the 业务部 data (asked him, text+voice). Owner test (ask 小芳 万华 顺酐) answered 13:37.
 - 14:52: 郑董: 二甲苯2 split — 任总+李总 decide blending into 歧化 (sent full method); 金总 sells tanks that can't be blended (likely 3503 ~2000 t) as 调油 in batches at good timing. TODO: when 任总/李总 decide, tell 金总 tank numbers + tonnes.
 - NOTE conflict: 刘总's meeting says 3000+ t of ~6000 t can't enter 歧化; 金总 said 3000+ CAN (~2000 can't). Lab per tank decides.
+- **2026-11-27:** 郑董要求小氢学习盛腾人力资源，已向刘总要材料（7 项）；收到后整理"人力资源概况"，结合转型/高企科技人员占比，郑董会来问。
