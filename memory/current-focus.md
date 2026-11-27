@@ -35,3 +35,12 @@ metadata:
 - 14:52: 郑董: 二甲苯2 split — 任总+李总 decide blending into 歧化 (sent full method); 金总 sells tanks that can't be blended (likely 3503 ~2000 t) as 调油 in batches at good timing. TODO: when 任总/李总 decide, tell 金总 tank numbers + tonnes.
 - NOTE conflict: 刘总's meeting says 3000+ t of ~6000 t can't enter 歧化; 金总 said 3000+ CAN (~2000 can't). Lab per tank decides.
 - **2026-11-27:** 郑董要求小氢学习盛腾人力资源，已向刘总要材料（7 项）；收到后整理"人力资源概况"，结合转型/高企科技人员占比，郑董会来问。
+- 2026-11-27 fixed ~/syntone/tools/html2docx.py: plain-text divs (e.g. .sign signature/date) were dropped in Word; now kept (right-aligned for .sign). Always check Word vs PDF before sending.
+- 2026-11-27 09:58 小芳 (on behalf of JI ZHAO): sync 德州不饱和树脂上下游会议 (隆众+合成树脂协会UPR分会; 12-9 报到, 12-10 会; 2000/人; 顺酐下游客户微信群 if attend) to 金总+郑董, collect 去不去/派谁. Files in ~/inbox/owner/. Replied: need JI ZHAO's direct DingTalk instruction before messaging leaders (agent can't trigger sends). Pending.
+- 10:00 JI ZHAO told me directly to sync 德州会议 to 金总+郑董. Send hit DingTalk QPS limit at 10:00:05: 郑董 got text only (no voice/files), 金总 nothing. Told owner honestly; owner asked to see content first → shown, waiting for OK before resending (金总 full; 郑董 voice+files). Lesson: avoid sending at :00; check send_to result before confirming.
+- 10:18 德州会议: 金总 = 去，派任萌萌（STT spelling?）+ 郑佳蕙有时间一起去. Relayed to JI ZHAO (send_to) and 小芳. 郑董 feedback pending.
+- 2026-11-27 html2docx.py now supports rowspan in tables (pads covered cells).
+- 13:44 德州会议: 郑董 agrees with 金总 → 郑佳蕙 + 任萌萌 attend. Relayed to JI ZHAO and 小芳. CLOSED (registration by 市场部).
+- 13:46 郑董: if 郑佳蕙 can't go, 彭子坤 (STT spelling?) substitutes. Relayed to JI ZHAO + 小芳.
+- 13:56 JI ZHAO asked: does 盛腾 have an English styrene SDS? Asked 金总 (text+voice); waiting → relay to JI ZHAO.
+- 14:26 金总: English styrene SDS → 安全科 白春涛 (STT), 郑佳蕙 has his WeChat. Relayed to JI ZHAO; offered to ask 郑佳蕙.

@@ -14,3 +14,4 @@
 - [隆众价格与 FOB 天津报价](oilchem-prices.md) — price DB, export pricing method, auto-quote inputs owed by 业务部 (2026-11-26)
 - [刘总](people/刘丽杰.md) — PRIVATE; 11-26 production meeting transcript (二甲苯2 mix-up)
 - [Ask before forwarding](feedback-ambiguous-forwarding.md) — ambiguous send request → ask and wait, never guess (任总 11-26)
+- [物料编码表](material-codes.md) — 盛腾 raw materials/products by workshop and unit (王总 11-27); product chains; open code issues
